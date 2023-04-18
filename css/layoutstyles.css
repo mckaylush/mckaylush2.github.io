@@ -1,0 +1,38 @@
+.subheader{
+    float:right;
+    font-size: larger;
+}
+a:visited{
+    color: white;
+}
+a:link {
+    color: white;
+  }
+a:hover{
+    font-weight: bold;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+.common{
+    font-family: sans-serif;
+}
+
+.header{
+    text-align: center;
+    border: 5px solid white;
+    color: gold;
+}
+
+.table{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.heading{
+    font-size: larger;
+}
+
+
